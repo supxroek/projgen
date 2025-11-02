@@ -5,6 +5,7 @@
 [![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)](https://golang.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![GitHub](https://img.shields.io/badge/GitHub-supxroek%2Fprojgen-181717?style=flat&logo=github)](https://github.com/supxroek/projgen)
 
 ---
 
@@ -33,7 +34,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/projgen.git
+git clone https://github.com/supxroek/projgen.git
 cd projgen
 
 # Install dependencies
