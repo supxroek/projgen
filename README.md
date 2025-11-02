@@ -26,7 +26,7 @@
 
 ### Prerequisites
 
-- Go 1.22 or higher
+- Go 1.25 or higher
 - Node.js 18+ (สำหรับ frontend/fullstack projects)
 - Git
 
@@ -357,9 +357,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 - **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Email**: suparoek.sm@gmail.com
+- **GitHub**: [@suparoek](https://github.com/supxroek)
+- **Twitter**: [@_supxroek](https://x.com/_supxroek)
 
 ---
 
@@ -382,4 +382,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<p align="center">Made with ❤️ by developers, for developers</p>
+<p align="center">Made with ❤️ by supxroek, for developers</p>
